@@ -1,0 +1,41 @@
+h1{
+    color: red;
+}
+.head{
+    font-size: large;
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+}
+ol li{
+    color: brown;
+    margin-bottom: 15px;
+}
+ul li{
+    color: brown;
+    letter-spacing: .2rem;
+}
+.normal{
+    color: rgb(165, 95, 42);
+}
+a{
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+    background-color: yellow;
+    text-decoration: none;
+
+}
+.yellowbackgrounnd{
+    background-color: yellow;
+    font-weight: bold;
+}
+.tdec1{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+.tdec2{
+    text-decoration: underline;
+    font-style: italic;
+}
+
